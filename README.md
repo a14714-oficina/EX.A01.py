@@ -1,2 +1,1 @@
-Exercício Resolvidos em sala de aula, utilizando váriaveis, inputs e alinhamento. Com o objetivo de desenvolver um programa em Python que a IA gere um número aleatório e que o utilizador tente acertar o número com um máximo de 6 tentativas.
-
+Este é um jogo de adivinhação de números em Python, onde o jogador tenta adivinhar um número aleatório entre 1 e 20. O programa dá um número limitado de tentativas (6) e fornece dicas para ajudar o jogador, indicando se o número correto é maior ou menor do que o número inserido. No final, o jogador pode optar por jogar novamente ou terminar o jogo.
